@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Devil-Botz/Elsa">
+<a href="https://heroku.com/deploy?template=https://github.com/Azanpopz/Elsa">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p></details>
@@ -105,7 +105,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Devil-Botz/Elsa
+git clone https://github.com/Azanpopz/Elsa
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
