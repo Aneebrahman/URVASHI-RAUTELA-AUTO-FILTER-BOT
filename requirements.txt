@@ -35,3 +35,8 @@ aiohttp
 python-math
 Pillow
 speedtest-cli
+
+python-telegram-bot
+
+OpenCC
+Pillow
